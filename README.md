@@ -6,15 +6,11 @@
 | :--------------------: | :------------------------: | :------------------------------------: |
 |  Ariel Plasencia Díaz  | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL) |
 
-## Aplicaciones de Escritorio
+## Desarrollador Web Front-End
 
-Una aplicación de escritorio es aquella que se encuentra  instalado en el ordenador o sistema de almacenamiento y podemos  ejecutarlo sin internet en nuestro sistema operativo, al contrario que  las aplicaciones en la nube que se encuentran en otro ordenador al que accedemos a través de la red o internet a su software.
-
-## Desarrollador de Aplicaciones de Escritorio
-
-Un desarollador de aplicaciones de escritorio es el encargado de establecer parámetros y diseñar la arquitectura de nuevos programas. Sus tareas principales son diseñar, escribir, leer, probar y corregir el código de nuevos programas, así como de realizar pruebas de medición de calidad y detectar errores en el desarrollo del programa. 
+En los equipos de desarrollo, el rol del Front End Developer es uno de los pilares al momento de construir un sitio o aplicación web. Este programador es el encargado de nada menos que la interfaz gráfica de un proyecto digital, es decir la cara visible de un sitio o aplicación. Además, los desarrolladores Front End son perfiles altamente creativos, y se encargan de brindar una excelente experiencia de navegación al usuario dentro de un entorno web.
 
 ## Link
 
-Puedes acceder a él y verlo en la web haciendo click [aquí](https://ArielXL/portafolio-app-desktop/portafolio-es/index.html).
+Puedes acceder a él y verlo en la web haciendo click [aquí](https://ArielXL.github.io/portafolio-web-developer).
 
